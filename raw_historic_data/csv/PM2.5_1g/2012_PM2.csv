@@ -1,6 +1,4 @@
-Kod stacji,DsWrocWisA,KpAirpWiktorowo,KpBydgPlPozn,KpBydgWarszawska,KpTorunDziewulsk,LdLodzWIOSACzernik,LdZgierzWIOSAMielcza,LuZgoraWIOS_AUT,MpKrakowWIOSAKra6117,MpKrakowWIOSBuja6119,MpKrakowWIOSBulw6118,MzSiedlceKonar,MzWarNiepodKom,MzWarszUrsynow,OpKkozle1a,PdBialyMiejska,PkJasloWIOSSikorskiego,PkPrzemyslWIOSMick,PkRzeszWIOSSzop,Pm.a08a,Pm.AM12.a,SkKielJagielWios,SkPolanRuszcz,SlGliwiGliw_mewy,SlKatowKato_kossu,WpWKP001,WpWKPKalisz007/10,ZpSzczecin001,ZpSzczecin002
-Wskaźnik,PM2.5,PM2.5,PM2.5,PM2.5,PM2.5,PM2.5,PM2.5,PM2.5,PM2.5,PM2.5,PM2.5,PM2.5,PM2.5,PM2.5,PM2.5,PM2.5,PM2.5,PM2.5,PM2.5,PM2.5,PM2.5,PM2.5,PM2.5,PM2.5,PM2.5,PM2.5,PM2.5,PM2.5,PM2.5
-Czas uśredniania,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g
+Kod stacji,DsWrocAlWisn,KpWiktorowoG,KpBydPlPozna,KpBydWarszaw,KpToruDziewu,LdLodzCzerni,LdZgieMielcz,LuZielKrotka,MpKrakAlKras,MpKrakBujaka,MpKrakBulwar,MzSiedKonars,MzWarAlNiepo,MzWarWokalna,OpKKozBSmial,PdBialWaszyn,PkJasloSikor,PkPrzemyslWIOSMick,PkRzeszWIOSSzop,PmGdaLeczk08,PmKosTargo12,SkKielJagiel,SkPolaRuszcz,SlGliwicMewy,SlKatoKossut,WpPoznPolank,WpKaliSawick,ZpSzczAndr01,ZpSzczPils02
 2012-01-01 01:00:00,79,,,,,51,182,69,163,73,123,33.3,111.3,81.1,91,35,,65.63,,162.8,45.37,64.4,55.3,220,64,62.3,55.4,27,29
 2012-01-01 02:00:00,79,,,,,336,120,61,161,,135,32.2,112.9,107.5,91,121,,36.93,,47.9,68.68,42.5,58.6,117,,64.3,111,125,36
 2012-01-01 03:00:00,79,,,,,125,86,71,175,105,132,35.3,103.1,98.9,81,45,,33.32,,18.7,27.37,44.1,68.1,90,95,83.7,95.1,44,42

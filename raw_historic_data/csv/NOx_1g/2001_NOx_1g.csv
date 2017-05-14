@@ -1,6 +1,4 @@
-Kod stacji,DsCzer02,DsJelw05,MpKrakowWIOSAKra6117,MpKrakowWIOSBulw6118,MpKrakowWIOSPrad6115,MzBelskIGFPAN,MzWarszKrucza,Pm.a01a,Pm.a02a,Pm.a03a,Pm.a04a,Pm.a05a,Pm.a06a,Pm.a07a,Pm.a08a,Pm.a09a,SlBytomByto_modrz,SlKatowKato_kossu,SlSosnoSosn_narut
-Wskaźnik,NOx,NOx,NOx,NOx,NOx,NOx,NOx,NOx,NOx,NOx,NOx,NOx,NOx,NOx,NOx,NOx,NOx,NOx,NOx
-Czas uśredniania,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g,1g
+Kod stacji,DsCzerStraza,DsJelw05,MpKrakAlKras,MpKrakBulwar,MpKrakowWIOSPrad6115,MzBelsIGFPAN,MzWarszKrucza,PmGdaPoWie01,PmGdaKacze02,PmGdaWyzwo03,PmGdyPoreb04,PmGdaOstrz05,PmSopBitPl06,PmTczeTarg07,PmGdaLeczk08,Pm.a09a,SlBytomByto_modrz,SlKatoKossut,SlSosnoSosn_narut
 2001-01-01 01:00:00,2,2,,24,,,,14,42,,,7,13,14,11,20,22,26,34
 2001-01-01 02:00:00,1,3,23,22,,8,,12,12,9,,7,14,14,9,17,24,17,35
 2001-01-01 03:00:00,0,13,21,18,,6,,11,14,7,7,6,15,15,9,17,32,18,30
